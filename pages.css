@@ -1,0 +1,53 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+.header
+{
+	color: rgb(0, 0, 0);font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img {
+	width: 80px;
+	margin-left: -15px;
+}
+body {
+    text-align: center;
+    background-color: rgb(133, 255, 245);
+}
+table, th, td {
+    border: 6px solid black;
+    
+  }
+th, td {
+    padding: 5px;
+    font: small;
+  }
+th {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bolder;
+}
+
+#save_send {
+  background-color:chartreuse;
+  width: 150px;
+  height: 40px;
+  margin-left: 1275;
+  margin-top: 10;
+}
+
+#add_new {
+    background-color:chartreuse;
+    width: 150px;
+    height: 40px;
+    margin-left: 1300;
+    margin-top: 10;
+  }
+.new_line{
+background: rgba(255,255,255,0.8);
+float: none;
+text-align: center;
+ border-radius: 15px;
+}
+  
